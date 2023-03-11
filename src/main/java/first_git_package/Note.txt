@@ -17,3 +17,5 @@ NOTE: git status -> This is our friend. This can be used anytime to see the prog
     *Create a new class under first_git_package: MySecondClass
     *Create a new commit and push the code to github
         *git add .
+        *git commit -m "added my second java class"
+        *git push
